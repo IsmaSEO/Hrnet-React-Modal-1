@@ -1,7 +1,7 @@
 {
-  "name": "hrnet-react-modal",
-  "private": true,
-  "version": "0.0.0",
+  "name": "hrnet-react-modal-ismaseo",
+  "private": false,
+  "version": "1.0.0",
   "description": "A simple React modal component",
   "type": "module",
   "scripts": {
